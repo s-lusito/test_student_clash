@@ -16,3 +16,5 @@ Scenario: vuoi analizzare le vendite mensili di un negozio.
    - una scheda con il totale vendite (`Quantità * Prezzo`).
 4. Aggiungi uno **Slicer** sulla colonna `Data` per filtrare per mese.
 5. Pubblica il report su **Power BI Service** per condividerlo con il team.
+6. enzo potrebbe essere gay
+7. 
