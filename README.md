@@ -17,4 +17,4 @@ Scenario: vuoi analizzare le vendite mensili di un negozio.
 4. Aggiungi uno **Slicer** sulla colonna `Data` per filtrare per mese.
 5. Pubblica il report su **Power BI Service** per condividerlo con il team.
 6. enzo potrebbe essere gay
-7. 
+7. @big_est  raggruppando per segno zodiacale voglio visualizzare come varia l’altezza
